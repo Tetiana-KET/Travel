@@ -1,5 +1,4 @@
 ## Travel
-![image](https://github.com/Tetiana-KET/Travel/assets/99186560/2e67952e-2b6e-480f-9f36-6b62388c76e2) 
 
 This is an adaptive and interactive landing page of a website for travel planning.
 
@@ -15,5 +14,7 @@ Using JavaScript to implement the functionality specified in the [task](https://
 **JavaScript**, **CSS**, **HTML**
 
 ## [Deploy Link](https://tetiana-ket.github.io/Travel/)
+
+![image](https://github.com/Tetiana-KET/Travel/assets/99186560/2e67952e-2b6e-480f-9f36-6b62388c76e2) 
 
 ## [Task Link](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/travel/travel.md)
